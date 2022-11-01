@@ -26,7 +26,7 @@ pool:
 resources:
   repositories:
     - repository: mlops-templates
-      name: Azure/mlops-templates
+      name: iAli61/mlops-templates
       endpoint: github-connection
       type: github
       ref: main #branch name
