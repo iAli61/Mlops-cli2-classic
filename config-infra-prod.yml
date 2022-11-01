@@ -17,8 +17,8 @@ variables:
 
 
   # Azure DevOps
-  ado_service_connection_rg: mlops-cliv2
-  ado_service_connection_aml_ws: mlops-cliv2
+  ado_service_connection_rg: github.com_iAli61
+  ado_service_connection_aml_ws: github.com_iAli61
 
   # DO NOT TOUCH
 

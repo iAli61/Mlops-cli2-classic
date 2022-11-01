@@ -27,7 +27,7 @@ resources:
   repositories:
     - repository: mlops-templates  # Template Repo
       name: iAli61/mlops-templates # need to change org name from "Azure" to your own org
-      endpoint: mlops-cliv2 # need to set up and hardcode
+      endpoint: github.com_iAli61 # need to set up and hardcode
       type: github
       ref: main
 
