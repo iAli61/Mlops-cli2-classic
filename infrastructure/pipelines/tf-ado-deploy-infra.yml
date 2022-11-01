@@ -27,7 +27,7 @@ resources:
   repositories:
     - repository: mlops-templates
       name: iAli61/mlops-templates
-      endpoint: github-connection
+      endpoint: mlops-cliv2
       type: github
       ref: main #branch name
 
