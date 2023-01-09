@@ -16,8 +16,8 @@ variables:
   enable_monitoring: true
 
   # Azure DevOps
-  ado_service_connection_rg: mlops-cliv2
-  ado_service_connection_aml_ws: mlops-cliv2
+  ado_service_connection_rg: azure-nonprod
+  ado_service_connection_aml_ws: azure-nonprod
 
   # DO NOT TOUCH
 
