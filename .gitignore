@@ -139,3 +139,7 @@ terraform.tfvars
 
 /infrastructure/bicep/main.json
 ! /infrastructure/bicep/bicepconfig.json
+data-science/experiment/portfolio/riskdata/*
+data-science/experiment/tutorial/68873e03-64a2-452f-90c2-60a2e01cfd8b/*
+data-science/experiment/tutorial/mlruns/*
+
